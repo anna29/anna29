@@ -24,4 +24,4 @@ To expand my expertise, I’ve been focusing on building insightful visualizatio
 ## Contact me
 💻 To reach me, feel free to connect via LinkedIn or email!
 
-📧 [LinkedIn](https://www.linkedin.com/in/anna-wieclaw-b1423267/) | [Email](mailto:a.wieclaw@mdx.ac.uk)
+📧 [LinkedIn](https://www.linkedin.com/in/anna-wieclaw-b1423267/) | [Email](mailto:a.wieclaw@mdx.ac.uk) | [Visit My Website](https://aparitybit.com/)
