@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 
 <!--
 **anna29/anna29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,6 +22,6 @@ To expand my expertise, I’ve been focusing on building insightful visualizatio
 
 
 ## Contact me
-💻 To reach me, feel free to connect via LinkedIn or email!
 
+💻 To reach me, feel free to connect via LinkedIn or email!
 📧 [LinkedIn](https://www.linkedin.com/in/anna-wieclaw-b1423267/) | [Email](mailto:a.wieclaw@mdx.ac.uk) | [Visit My Website](https://aparitybit.com/)
