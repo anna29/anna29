@@ -16,7 +16,7 @@ Here are some ideas to get you started:-->
 
 ### Background
 
-I hold a recent MSc in Data Science from Middlesex University, along with an MSc in Computer Science from years ago. With over 13 years of experience teaching programming as a lecturer at Middlesex University, my growing passion for data science is now leading me toward data exploration.
+I hold a recent MSc in Data Science from Middlesex University, along with an MSc in Computer Science from years ago. With over 13 years of experience teaching programming as a lecturer at Middlesex University, my growing passion for data science is now leading me toward Artificial Intelligence and automation.
 
 To expand my expertise, I’ve been focusing on building insightful visualizations, automating tasks, and deepening my understanding of AI and data science. I continuously refine my skills by developing new ideas, designing solutions, and applying them in real-world scenarios
 
